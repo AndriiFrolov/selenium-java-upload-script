@@ -1,0 +1,46 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore Report Portal specific files
+reportportal.lock
+reportportal.sync
+
+# Optional proprty files
+src/main/resources/local.properties
+src/main/resources/reportportal.properties
+src/main/resources/running_launch.properties
+
+/target/
+/bin/
+/test-output/
+.DS_Store
+.idea
+.gradle
+build
+*.ipr
+*.iws
+*.iml
+*.eml
+*.orig
+.idea/
+log/
+atlassian-ide-plugin.xml
+*.log
+*.rdb
+*.idea
+*.pyc
+*.mvn
+*mvnw
+*.cmd
+tugboat_logs/
+doc/
+temp/
+out/
+report/
+reports/
+lib/
+classes/
+class/
